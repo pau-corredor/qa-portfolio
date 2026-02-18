@@ -26,9 +26,9 @@ This repository includes:
 
 - Jira
 - Postman
-- GitHub
+
 
 ## Contact
 
 Email: pau.corredor95@gmail.com
-LinkedIn: (your LinkedIn link here)
+LinkedIn: https://www.linkedin.com/in/paula-corredor-q/
